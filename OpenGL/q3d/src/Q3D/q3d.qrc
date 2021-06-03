@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/shaders"/>
+    <qresource prefix="/">
+        <file>shaders/simple_fshader.glsl</file>
+        <file>shaders/simple_vshader.glsl</file>
+        <file>shaders/pointmap_fshader.glsl</file>
+        <file>shaders/pointmap_vshader.glsl</file>
+        <file>shaders/evalator_fshader.glsl</file>
+        <file>shaders/evalator_vshader.glsl</file>
+        <file>shaders/findmodel_fshader.glsl</file>
+        <file>shaders/findmodel_vshader.glsl</file>
+        <file>shaders/array_fshader.glsl</file>
+        <file>shaders/array_vshader.glsl</file>
+    </qresource>
+</RCC>
